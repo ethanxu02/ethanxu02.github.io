@@ -4,5 +4,5 @@ collection: publications
 category: manuscripts
 date: 2022-03-10
 venue: 'IEEE Communications Letters'
-citation: 'Du, X., Xu, Y., Huang, W., & Yu, C. (2022). Dynamic joint frequency offset and phase noise tracking by number-theoretic net-based Gaussian particle filter in coherent optical systems. IEEE Communications Letters, 26(6), 1388-1392.'
+citation: 'Du, X., Xu, Y., Huang, W., & Yu, C. (2022). Dynamic joint frequency offset and phase noise tracking by number-theoretic net-based Gaussian particle filter in coherent optical systems. *IEEE Communications Letters, 26*(6), 1388-1392.'
 ---
