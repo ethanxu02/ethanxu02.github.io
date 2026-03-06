@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yangfan Xu"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
