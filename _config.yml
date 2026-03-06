@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Yangfan Xu"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Research Assistant"
+  location         : "Hong Kong SAR, China"
+  employer         : "The University of Hong Kong"
+  uri              : "https://www.hku.hk/"
+  email            : "ethanxu@hku.hk"
 
   # Academic websites
   academia         : # URL
