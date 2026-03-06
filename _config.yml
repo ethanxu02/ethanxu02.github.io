@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yangfan Xu"
-  pronouns         : "he/him"  
+  # pronouns         : "he/him"  
   bio              : "Research Assistant I at The University of Hong Kong"
   location         : "Hong Kong SAR, China"
   employer         : # "The University of Hong Kong"
