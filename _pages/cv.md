@@ -19,3 +19,8 @@ Employment
 * Research Assistant I, The University of Hong Kong, 2025-Present.
 * Student Research Assistant, Beijing Normal-Hong Kong Baptist University, 2020-2024.
 * Student Tutor, Beijing Normal-Hong Kong Baptist University, 2022-2023.
+
+Honours
+======
+* National Scholarship, 2023.
+* Mr. Fung Sun Kwan Scholarship of Excellence, 2022.
