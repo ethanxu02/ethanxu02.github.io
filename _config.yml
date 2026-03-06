@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Yangfan Xu"
   pronouns         : "he/him"  
-  bio              : "Research Assistant"
+  bio              : "Research Assistant I at The University of Hong Kong"
   location         : "Hong Kong SAR, China"
-  employer         : "The University of Hong Kong"
+  employer         : # "The University of Hong Kong"
   uri              : #"https://www.hku.hk/"
   email            : #"ethanxu@hku.hk"
 
