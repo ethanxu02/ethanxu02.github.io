@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MSc in Statistical Science (Distinction), University of Oxford, 2024-2025.
-* BSc in Statistics (First Class Honours), Beijing Normal-Hong Kong Baptist University, 2020-2024.
+* MSc in Statistical Science, University of Oxford, 2024-2025 (Distinction).
+* BSc in Statistics, Beijing Normal-Hong Kong Baptist University, 2020-2024 (First Class Honours).
 
 Employment
 ======
