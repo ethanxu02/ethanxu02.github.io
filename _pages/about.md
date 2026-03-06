@@ -9,4 +9,4 @@ redirect_from:
 
 About Me
 ======
-I am a research assistant at The University of Hong Kong and was previously affliifiated with the Photonics Research Group at Beijing Normal-Hong Kong Baptist University.
+I am currently a research assistant at the University of Hong Kong and was previously affiliated with the Photonics Research Group at the Beijing Normal-Hong Kong Baptist University.
