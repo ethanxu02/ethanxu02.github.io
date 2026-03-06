@@ -29,8 +29,8 @@ author:
   bio              : "Research Assistant"
   location         : "Hong Kong SAR, China"
   employer         : "The University of Hong Kong"
-  uri              : "https://www.hku.hk/"
-  email            : "ethanxu@hku.hk"
+  uri              : #"https://www.hku.hk/"
+  email            : #"ethanxu@hku.hk"
 
   # Academic websites
   academia         : # URL
