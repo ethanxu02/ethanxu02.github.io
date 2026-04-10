@@ -8,17 +8,17 @@ redirect_from:
 ---
 About Me
 ======
-<p align="justify">
+<div style="text-align: justify;">
 Welcome! My name is Yangfan Xu. I currently serve as a full-time Research Assistant at the University of Hong Kong.
-</p>
+</div>
 
-<p align="justify">
+<div style="text-align: justify;">
 Prior to this, I obtained an MSc in Statistical Science from the University of Oxford and a BSc in Statistics from Beijing Normal-Hong Kong Baptist University. I also had the privilege of spending over three years at the Photonics Research Group, working under the supervision of [Dr. Xinwei Du](https://staff.bnbu.edu.cn/xinweidu/en).
-</p>
+</div>
 
-<p align="justify">
+<div style="text-align: justify;">
 In daily life, I enjoy hiking, playing badminton and playing mobile games (e.g. Genshin Impact), and I am looking for friends to join me in these activities!
-</p>
+</div>
 
 News
 ======
