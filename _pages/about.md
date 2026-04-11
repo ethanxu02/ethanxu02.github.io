@@ -19,6 +19,3 @@ Prior to this, I obtained an MSc in Statistical Science from the University of O
 <p align="justify">
 In daily life, I enjoy hiking, playing badminton and playing mobile games (e.g. Genshin Impact), and I am looking for friends to join me in these activities!
 </p>
-
-News
-======
